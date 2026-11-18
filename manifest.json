@@ -1,0 +1,9 @@
+{
+  "name": "Diet Menu Finder",
+  "short_name": "DietFinder",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2e7d32",
+  "icons": []
+}

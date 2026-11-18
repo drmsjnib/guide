@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Avocado Toast with Egg",
+    "category": "Breakfast",
+    "description": "Whole grain toast topped with mashed avocado and a poached egg."
+  },
+  {
+    "name": "Grilled Chicken Salad",
+    "category": "Lunch",
+    "description": "Mixed greens, cherry tomatoes, cucumbers, and grilled chicken breast."
+  },
+  {
+    "name": "Baked Salmon with Asparagus",
+    "category": "Dinner",
+    "description": "Fresh salmon fillet served with roasted asparagus and lemon."
+  }
+]
