@@ -15,3 +15,25 @@
     "description": "Fresh salmon fillet served with roasted asparagus and lemon."
   }
 ]
+[
+  {
+    "day": "1st & 16th",
+    "mealType": "Lunch / Dinner Special",
+    "items": "Ragi Idli, Apple Cinnamon Roll, Mexican Vegi Burrito, Kidney Beans in Chilli Tomato Sauce, Mexican Green Rice"
+  },
+  {
+    "day": "2nd & 17th",
+    "mealType": "Lunch / Dinner Special",
+    "items": "Yellow Moong Chilla, Sattu Ladoo, Quinoa Vegetable, Ghiya Halwa, Open Face Veg Burger"
+  },
+  {
+    "day": "3rd & 18th",
+    "mealType": "Lunch / Dinner Special",
+    "items": "Schezwan Vegetable Fingers, Smoked Red Pepper Tofu Crostini, Hakka Noodles, Rainbow Veg with Hot Garlic Sauce"
+  },
+  {
+    "day": "4th & 19th",
+    "mealType": "Lunch / Dinner Special",
+    "items": "Millet Pongal, Carrot Dates Cake, Beetroot Hummus Tart, Garden Vegetable Stew"
+  }
+]
